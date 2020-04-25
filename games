@@ -1,0 +1,4 @@
+-- again, open source
+if game.PlaceId == 4390380541 then
+	loadstring(game:HttpGet("https://pastebin.com/raw/dnCeUhXw", true))() -- Rumble Quest
+end
