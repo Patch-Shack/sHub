@@ -1,4 +1,7 @@
 -- again, open source
 if game.PlaceId == 4390380541 then
-	loadstring(game:HttpGet("https://pastebin.com/raw/dnCeUhXw", true))() -- Rumble Quest
+    loadstring(game:HttpGet("https://pastebin.com/raw/dnCeUhXw", true))() -- Rumble Quest
+end
+if game.PlaceId == 914010731 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IvesAwadi/Ro-Ghoul/master/lua?token=AO6JV7PVXKQHD3MQA65H75C6URTQ2"))() -- Ro-Ghoul
 end
