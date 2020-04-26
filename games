@@ -12,3 +12,8 @@ end
 if place == 3956818381 then
     loadstring(game:HttpGet("https://pastebin.com/raw/0V0gQ5qe", true))() -- Ninja Legends
 end
+if place == 2768379856 then
+    loadstring(game:HttpGet(('https://pastebin.com/raw/i4gJFss1'),true))() -- SCP-3008
+    loadstring(game:HttpGet("http://www.narwhalhacks.com/UI/NotificationUI.lua", true))()
+    Notify("SCP-3008", "bruh use IY", 5)
+end
