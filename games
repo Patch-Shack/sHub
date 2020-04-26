@@ -24,3 +24,6 @@ if place == 2949177054 then
         game:GetService("ReplicatedStorage").Events.DailyRewards:FireServer("CollectReward")
     end
 end
+if place == 1834254548 then
+    loadstring(game:HttpGet(('https://pastebin.com/raw/xWhQr74X'),true))() -- Granny
+end
