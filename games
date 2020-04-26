@@ -9,3 +9,6 @@ end
 if place == 3527629287 then
     loadstring(game:HttpGet("https://pastebin.com/raw/j8esTLQV", true))() -- Big Paintball
 end
+if place == 3956818381 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/0V0gQ5qe", true))() -- Ninja Legends
+end
