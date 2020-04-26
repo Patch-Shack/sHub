@@ -17,3 +17,10 @@ if place == 2768379856 then
     loadstring(game:HttpGet("http://www.narwhalhacks.com/UI/NotificationUI.lua", true))()
     Notify("SCP-3008", "bruh use IY", 5)
 end
+if place == 2949177054 then
+    _G.toggle = true -- Banana Simulator 2
+    while _G.toggle do
+        wait()
+        game:GetService("ReplicatedStorage").Events.DailyRewards:FireServer("CollectReward")
+    end
+end
